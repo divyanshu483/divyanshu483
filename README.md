@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Divyanshu%20Mandlavdiya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Divyanshu%20Aggarwal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00EAFF&center=true&vCenter=true&width=800&lines=Hi+I'm+Divyanshu+Mandlavdiya;MAKE+BREAK+AND+SOMETIMES+FIX+THINGS;Full+Stack+Developer;Game+Developer;Automation+Expert;Robotics+Enthusiast;Web3+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00EAFF&center=true&vCenter=true&width=800&lines=Hi+I'm+Divyanshu+Aggarwal;MAKE+BREAK+AND+SOMETIMES+FIX+THINGS;Full+Stack+Developer;Game+Developer;Automation+Expert;Robotics+Enthusiast;Web3+Explorer;Open+Source+Contributor" alt="Typing SVG" />
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Divyanshu483&label=Profile%20views&color=00d9ff&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/Divyanshu483?style=for-the-badge&color=00d9ff&logo=github)](https://github.com/Divyanshu483?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Divyanshu483?style=for-the-badge&color=00d9ff&logo=github)](https://github.com/Divyanshu483?tab=repositories)
-[![Website](https://img.shields.io/badge/Website-Live-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Divyanshumandlavdiya.is-a.dev/)
+[![Website](https://img.shields.io/badge/Website-Live-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://DivyanshuAggarwal.is-a.dev/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -20,7 +20,7 @@
 ## 🎯 About Me
 
 ```python
-class DivyanshuMandlavdiya:
+class DivyanshuAggarwal:
     def __init__(self):
         self.username = "Divyanshu483"
         self.location = "India 🇮🇳"
@@ -35,7 +35,7 @@ class DivyanshuMandlavdiya:
             "🎨 UI/UX Design"
         ]
         self.current_projects = [
-            "Portfolio Website (https://Divyanshumandlavdiya.is-a.dev/)",
+            "Portfolio Website (https://DivyanshuAggarwal.is-a.dev/)",
             "Certificate Mailer System (222+ emails sent)",
             "Robo Nexus Discord Bot",
             "Robotics Competition Projects"
@@ -44,7 +44,7 @@ class DivyanshuMandlavdiya:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
 
-me = DivyanshuMandlavdiya()
+me = DivyanshuAggarwal()
 me.say_hi()
 ```
 
@@ -250,7 +250,7 @@ me.say_hi()
 
 Modern portfolio with smooth animations, interactive countdown timers, and dynamic project loading.
 
-<a href="https://Divyanshumandlavdiya.is-a.dev/" target="_blank"><img src="https://img.shields.io/badge/Live-https://Divyanshumandlavdiya.is-a.dev/-00d9ff?style=for-the-badge"/></a>
+<a href="https://DivyanshuAggarwal.is-a.dev/" target="_blank"><img src="https://img.shields.io/badge/Live-https://DivyanshuAggarwal.is-a.dev/-00d9ff?style=for-the-badge"/></a>
 <a href="https://github.com/Divyanshu483/Portfolio" target="_blank"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"/></a>
 
 </div>
@@ -358,7 +358,7 @@ Interactive silk-like pattern generator with real-time mouse-driven symmetrical 
 ## 💼 What I'm Up To
 
 ```javascript
-const DivyanshuMandlavdiya = {
+const DivyanshuAggarwal = {
     currentlyLearning: [
         "Advanced Web Development",
         "Game Development with Unity & Godot",
@@ -398,13 +398,13 @@ console.log("Let's build something amazing! 🚀");
 
 <div align="center">
 
-<a href="https://Divyanshumandlavdiya.is-a.dev/" target="_blank"><img src="https://img.shields.io/badge/🌐_Website-https://Divyanshumandlavdiya.is-a.dev/-00d9ff?style=for-the-badge&logoColor=white" alt="Website"/></a>
+<a href="https://DivyanshuAggarwal.is-a.dev/" target="_blank"><img src="https://img.shields.io/badge/🌐_Website-https://DivyanshuAggarwal.is-a.dev/-00d9ff?style=for-the-badge&logoColor=white" alt="Website"/></a>
 <a href="https://github.com/Divyanshu483" target="_blank"><img src="https://img.shields.io/badge/GitHub-Divyanshu483-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/Divyanshumandlavdiya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Divyanshumandlavdiya-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/DivyanshuAggarwal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-DivyanshuAggarwal-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 
 <a href="https://itch.io/profile/Divyanshuam" target="_blank"><img src="https://img.shields.io/badge/itch.io-Divyanshuam-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io"/></a>
 <a href="https://www.hackerrank.com/profile/Divyanshu0m" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Divyanshu0m-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
-<a href="https://g.dev/Divyanshumandlavdiya" target="_blank"><img src="https://img.shields.io/badge/Google_Dev-Divyanshumandlavdiya-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev"/></a>
+<a href="https://g.dev/DivyanshuAggarwal" target="_blank"><img src="https://img.shields.io/badge/Google_Dev-DivyanshuAggarwal-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev"/></a>
 
 <a href="mailto:Divyanshuam682@gmail.com"><img src="https://img.shields.io/badge/Email-Divyanshuam682@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 

@@ -6,9 +6,9 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AtharvM02222&label=Profile%20views&color=00d9ff&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/AtharvM02222?style=for-the-badge&color=00d9ff&logo=github)](https://github.com/AtharvM02222?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/AtharvM02222?style=for-the-badge&color=00d9ff&logo=github)](https://github.com/AtharvM02222?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=Divyanshu483&label=Profile%20views&color=00d9ff&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/Divyanshu483?style=for-the-badge&color=00d9ff&logo=github)](https://github.com/Divyanshu483?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Divyanshu483?style=for-the-badge&color=00d9ff&logo=github)](https://github.com/Divyanshu483?tab=repositories)
 [![Website](https://img.shields.io/badge/Website-Live-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atharvmandlavdiya.is-a.dev/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -22,7 +22,7 @@
 ```python
 class AtharvMandlavdiya:
     def __init__(self):
-        self.username = "AtharvM02222"
+        self.username = "Divyanshu483"
         self.location = "India 🇮🇳"
         self.role = "Full Stack Developer | Game Dev | Automation Expert"
         self.education = "High School Student"
@@ -174,11 +174,11 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AtharvM02222&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00eaff&icon_color=00eaff&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvM02222&theme=tokyonight&hide_border=true&background=0d1117&stroke=00eaff&ring=00eaff&fire=00eaff&currStreakLabel=00eaff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Divyanshu483&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00eaff&icon_color=00eaff&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu483&theme=tokyonight&hide_border=true&background=0d1117&stroke=00eaff&ring=00eaff&fire=00eaff&currStreakLabel=00eaff" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvM02222&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvM02222&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00eaff&line=00eaff&point=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu483&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu483&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00eaff&line=00eaff&point=ffffff" />
 
 ### 💻 Code Statistics (All Repositories)
 
@@ -227,7 +227,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AtharvM02222&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Divyanshu483&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -251,7 +251,7 @@ me.say_hi()
 Modern portfolio with smooth animations, interactive countdown timers, and dynamic project loading.
 
 <a href="https://atharvmandlavdiya.is-a.dev/" target="_blank"><img src="https://img.shields.io/badge/Live-https://atharvmandlavdiya.is-a.dev/-00d9ff?style=for-the-badge"/></a>
-<a href="https://github.com/AtharvM02222/Portfolio" target="_blank"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/Divyanshu483/Portfolio" target="_blank"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"/></a>
 
 </div>
 </td>
@@ -265,7 +265,7 @@ Modern portfolio with smooth animations, interactive countdown timers, and dynam
 
 Automated certificate distribution for NYRC'25 robotics competition. 90+ certificates sent with rate limiting and auto-retry.
 
-<a href="https://github.com/AtharvM02222/Certi-Mailer" target="_blank"><img src="https://img.shields.io/badge/GitHub-Certi--Mailer-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/Divyanshu483/Certi-Mailer" target="_blank"><img src="https://img.shields.io/badge/GitHub-Certi--Mailer-181717?style=for-the-badge&logo=github"/></a>
 
 </div>
 </td>
@@ -282,7 +282,7 @@ Automated certificate distribution for NYRC'25 robotics competition. 90+ certifi
 
 Advanced Discord bot for robotics team management — stats tracking, role assignment, event notifications, and music.
 
-<a href="https://github.com/AtharvM02222/robo-nexus-bot" target="_blank"><img src="https://img.shields.io/badge/GitHub-robo--nexus--bot-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/Divyanshu483/robo-nexus-bot" target="_blank"><img src="https://img.shields.io/badge/GitHub-robo--nexus--bot-181717?style=for-the-badge&logo=github"/></a>
 
 </div>
 </td>
@@ -296,7 +296,7 @@ Advanced Discord bot for robotics team management — stats tracking, role assig
 
 Automation scripts, games, utilities, and HackerRank solutions.
 
-<a href="https://github.com/AtharvM02222/Python" target="_blank"><img src="https://img.shields.io/badge/GitHub-Python-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/Divyanshu483/Python" target="_blank"><img src="https://img.shields.io/badge/GitHub-Python-181717?style=for-the-badge&logo=github"/></a>
 <a href="https://www.hackerrank.com/profile/atharv0m" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
 
 </div>
@@ -314,7 +314,7 @@ Automation scripts, games, utilities, and HackerRank solutions.
 
 Arduino-based autonomous robot football player with ball tracking and motor control.
 
-<a href="https://github.com/AtharvM02222/Robo-Football" target="_blank"><img src="https://img.shields.io/badge/GitHub-Robo--Football-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/Divyanshu483/Robo-Football" target="_blank"><img src="https://img.shields.io/badge/GitHub-Robo--Football-181717?style=for-the-badge&logo=github"/></a>
 
 </div>
 </td>
@@ -328,7 +328,7 @@ Arduino-based autonomous robot football player with ball tracking and motor cont
 
 Interactive silk-like pattern generator with real-time mouse-driven symmetrical designs and color customization.
 
-<a href="https://github.com/AtharvM02222/silk-visualizer" target="_blank"><img src="https://img.shields.io/badge/GitHub-silk--visualizer-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/Divyanshu483/silk-visualizer" target="_blank"><img src="https://img.shields.io/badge/GitHub-silk--visualizer-181717?style=for-the-badge&logo=github"/></a>
 
 </div>
 </td>
@@ -343,12 +343,12 @@ Interactive silk-like pattern generator with real-time mouse-driven symmetrical 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvM02222&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0d1117&color=00eaff&line=00eaff&point=ffffff" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu483&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0d1117&color=00eaff&line=00eaff&point=ffffff" width="100%" alt="Contribution Graph"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtharvM02222/AtharvM02222/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtharvM02222/AtharvM02222/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AtharvM02222/AtharvM02222/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divyanshu483/Divyanshu483/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divyanshu483/Divyanshu483/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Divyanshu483/Divyanshu483/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -399,7 +399,7 @@ console.log("Let's build something amazing! 🚀");
 <div align="center">
 
 <a href="https://atharvmandlavdiya.is-a.dev/" target="_blank"><img src="https://img.shields.io/badge/🌐_Website-https://atharvmandlavdiya.is-a.dev/-00d9ff?style=for-the-badge&logoColor=white" alt="Website"/></a>
-<a href="https://github.com/AtharvM02222" target="_blank"><img src="https://img.shields.io/badge/GitHub-AtharvM02222-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://github.com/Divyanshu483" target="_blank"><img src="https://img.shields.io/badge/GitHub-Divyanshu483-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/atharvmandlavdiya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-atharvmandlavdiya-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 
 <a href="https://itch.io/profile/atharvam" target="_blank"><img src="https://img.shields.io/badge/itch.io-atharvam-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io"/></a>
@@ -418,7 +418,7 @@ console.log("Let's build something amazing! 🚀");
 
 ### 🚀 Open for collaborations, freelance projects, and innovative ideas.
 
-### ⭐ From [AtharvM02222](https://github.com/AtharvM02222) with 💙
+### ⭐ From [Divyanshu483](https://github.com/Divyanshu483) with 💙
 
 *Made with passion, powered by code* 🚀
 
